@@ -1,0 +1,30 @@
+//+-----------------------------------+
+//| Regex with PosData for Commands   |
+//|   Copyright © 2018-, Yoshio Mr24  |
+//|          mail.verysvery@gmail.com |
+//|       Ver.0.0.1 Update:2018.02.15 |
+//+-----------------------------------+
+[
+	{
+		"caption" : "RegReplace: PosData",
+		"command" : "reg_replace",
+		"args": {
+			"replacements": [
+				"StartDelete260",
+				"D0PH_Return",
+				"Comma9","Comma12","Comma16","Comma18","Comma24","Comma29",
+				"Comma34","Comma38","Comma43","Comma50","Comma54","Comma56",
+				"Comma61","Comma65","Comma67","Comma79","Comma85","Comma94",
+				"Comma103","Comma113","Comma115","Comma117",
+				"Comma127","Comma137","Comma145","Comma147","Comma158",
+				"Comma161","Comma163","Comma165","Comma167","Comma172",
+				"Comma174","Comma176",
+				"Comma178","Comma184","Comma191","Comma194",
+				"Comma200","Comma206","Comma208","Comma226",
+				"Comma237","Comma256","Comma265","Comma270","Comma279",
+				"Comma290","Comma295","Comma304",
+				"Hyoudai",
+			]
+		}
+	}
+]
